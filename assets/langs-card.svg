@@ -1,29 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="280" viewBox="0 0 560 280" role="img" aria-label="CJ1071 Languages Card">
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="300" viewBox="0 0 560 300" role="img" aria-label="CJ1071 Languages Card" shape-rendering="crispEdges">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0c1028"/>
       <stop offset="100%" stop-color="#12243a"/>
     </linearGradient>
   </defs>
-  <rect x="6" y="6" width="548" height="268" rx="10" fill="url(#bg)" stroke="#5de2ff" stroke-width="2"/>
-  <text x="28" y="42" fill="#a6f0ff" font-size="24" font-family="monospace" font-weight="700">ELEMENTAL LANGS</text>
-  <text x="30" y="69" fill="#95a5c9" font-size="14" font-family="monospace">Based on byte share in non-fork repos</text>
-
-  <g font-family="monospace" font-size="15">
-    <text x="30" y="106" fill="#f7df1e">JavaScript 61.68%</text>
-    <rect x="30" y="114" width="500" height="12" rx="6" fill="#24314e"/>
-    <rect x="30" y="114" width="308" height="12" rx="6" fill="#f7df1e"/>
-
-    <text x="30" y="146" fill="#8dd6ff">Python 32.66%</text>
-    <rect x="30" y="154" width="500" height="12" rx="6" fill="#24314e"/>
-    <rect x="30" y="154" width="163" height="12" rx="6" fill="#4b8bbe"/>
-
-    <text x="30" y="186" fill="#b7f0ff">CSS 3.82%</text>
-    <rect x="30" y="194" width="500" height="12" rx="6" fill="#24314e"/>
-    <rect x="30" y="194" width="19" height="12" rx="6" fill="#42a5f5"/>
-
-    <text x="30" y="226" fill="#ffd8a8">HTML 1.84%</text>
-    <rect x="30" y="234" width="500" height="12" rx="6" fill="#24314e"/>
-    <rect x="30" y="234" width="9" height="12" rx="6" fill="#e34c26"/>
-  </g>
+  <rect x="8" y="8" width="544" height="284" fill="url(#bg)" stroke="#5de2ff" stroke-width="3"/>
+  <rect x="8" y="8" width="544" height="28" fill="#132b4d"/>
+  <text x="20" y="27" fill="#a6f0ff" font-size="14" font-family="monospace">ELEMENTAL LANGS PANEL</text>
+  <text x="20" y="55" fill="#95a5c9" font-size="13" font-family="monospace">Non-fork repo language byte share · 2026-03-05</text>
+  
+    <text x="22" y="92" fill="#f7df1e" font-size="15" font-family="monospace">JavaScript 61.68%</text>
+    <rect x="22" y="100" width="470" height="12" fill="#253755"/>
+    <rect x="22" y="100" width="290" height="12" fill="#f7df1e"/>
+    <text x="22" y="140" fill="#4b8bbe" font-size="15" font-family="monospace">Python 32.66%</text>
+    <rect x="22" y="148" width="470" height="12" fill="#253755"/>
+    <rect x="22" y="148" width="154" height="12" fill="#4b8bbe"/>
+    <text x="22" y="188" fill="#42a5f5" font-size="15" font-family="monospace">CSS 3.82%</text>
+    <rect x="22" y="196" width="470" height="12" fill="#253755"/>
+    <rect x="22" y="196" width="18" height="12" fill="#42a5f5"/>
+    <text x="22" y="236" fill="#e34c26" font-size="15" font-family="monospace">HTML 1.84%</text>
+    <rect x="22" y="244" width="470" height="12" fill="#253755"/>
+    <rect x="22" y="244" width="9" height="12" fill="#e34c26"/>
 </svg>

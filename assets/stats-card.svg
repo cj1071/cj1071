@@ -1,31 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="280" viewBox="0 0 560 280" role="img" aria-label="CJ1071 Stats Card">
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="300" viewBox="0 0 560 300" role="img" aria-label="CJ1071 Stats Card" shape-rendering="crispEdges">
   <defs>
     <linearGradient id="cardBg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#071022"/>
-      <stop offset="100%" stop-color="#0d1f32"/>
+      <stop offset="0%" stop-color="#0a1024"/>
+      <stop offset="100%" stop-color="#10203a"/>
     </linearGradient>
   </defs>
-  <rect x="6" y="6" width="548" height="268" rx="10" fill="url(#cardBg)" stroke="#35e6ff" stroke-width="2"/>
-  <text x="28" y="42" fill="#8df6ff" font-size="24" font-family="monospace" font-weight="700">PLAYER STATS</text>
-  <text x="30" y="69" fill="#95a5c9" font-size="14" font-family="monospace">Last synced: 2026-03-05</text>
+  <rect x="8" y="8" width="544" height="284" fill="url(#cardBg)" stroke="#39f4ff" stroke-width="3"/>
+  <rect x="8" y="8" width="544" height="28" fill="#132b4d"/>
+  <text x="20" y="27" fill="#8ff8ff" font-size="14" font-family="monospace">PLAYER STATS PANEL</text>
+  <text x="20" y="55" fill="#9fc7ff" font-size="13" font-family="monospace">Last Sync: 2026-03-05</text>
 
-  <g font-family="monospace" font-size="17">
-    <text x="30" y="106" fill="#8cc8ff">Public Repos</text><text x="220" y="106" fill="#e7f8ff">6</text>
-    <text x="30" y="132" fill="#8cc8ff">Original Repos</text><text x="220" y="132" fill="#e7f8ff">3</text>
-    <text x="30" y="158" fill="#8cc8ff">Followers</text><text x="220" y="158" fill="#e7f8ff">0</text>
-    <text x="30" y="184" fill="#8cc8ff">Total Stars</text><text x="220" y="184" fill="#e7f8ff">1</text>
-    <text x="30" y="210" fill="#8cc8ff">Account Age</text><text x="220" y="210" fill="#e7f8ff">7Y+</text>
+  <g font-family="monospace" font-size="16">
+    <text x="24" y="90" fill="#8ecbff">Public Repos</text><text x="220" y="90" fill="#eaf9ff">6</text>
+    <text x="24" y="116" fill="#8ecbff">Owned Repos</text><text x="220" y="116" fill="#eaf9ff">3</text>
+    <text x="24" y="142" fill="#8ecbff">Fork Repos</text><text x="220" y="142" fill="#eaf9ff">3</text>
+    <text x="24" y="168" fill="#8ecbff">Total Stars</text><text x="220" y="168" fill="#eaf9ff">3</text>
+    <text x="24" y="194" fill="#8ecbff">Followers</text><text x="220" y="194" fill="#eaf9ff">0</text>
+    <text x="24" y="220" fill="#8ecbff">Account Age</text><text x="220" y="220" fill="#eaf9ff">7Y+</text>
   </g>
 
-  <text x="310" y="106" fill="#9ef6d9" font-size="14" font-family="monospace">Main Quest Progress</text>
-  <rect x="310" y="118" width="220" height="14" rx="7" fill="#1b2c49"/>
-  <rect x="310" y="118" width="176" height="14" rx="7" fill="#2df0c8"/>
+  <text x="300" y="88" fill="#9cfbd9" font-size="14" font-family="monospace">Build Discipline</text>
+  <rect x="300" y="96" width="230" height="14" fill="#253755"/><rect x="300" y="96" width="185" height="14" fill="#2ef2c9"/>
 
-  <text x="310" y="158" fill="#9ef6d9" font-size="14" font-family="monospace">AI Tooling</text>
-  <rect x="310" y="170" width="220" height="14" rx="7" fill="#1b2c49"/>
-  <rect x="310" y="170" width="192" height="14" rx="7" fill="#76a9ff"/>
+  <text x="300" y="140" fill="#9cfbd9" font-size="14" font-family="monospace">Architecture Focus</text>
+  <rect x="300" y="148" width="230" height="14" fill="#253755"/><rect x="300" y="148" width="198" height="14" fill="#7cb3ff"/>
 
-  <text x="310" y="210" fill="#9ef6d9" font-size="14" font-family="monospace">Delivery Speed</text>
-  <rect x="310" y="222" width="220" height="14" rx="7" fill="#1b2c49"/>
-  <rect x="310" y="222" width="168" height="14" rx="7" fill="#54fba2"/>
+  <text x="300" y="192" fill="#9cfbd9" font-size="14" font-family="monospace">Delivery Speed</text>
+  <rect x="300" y="200" width="230" height="14" fill="#253755"/><rect x="300" y="200" width="170" height="14" fill="#62fba7"/>
 </svg>

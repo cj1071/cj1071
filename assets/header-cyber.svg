@@ -1,59 +1,57 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="CJ1071 Cyber Xiuxian Header">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="CJ1071 Pixel HUD Header" shape-rendering="crispEdges">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#050816"/>
-      <stop offset="55%" stop-color="#10142f"/>
-      <stop offset="100%" stop-color="#0a2b26"/>
+      <stop offset="0%" stop-color="#080b1a"/>
+      <stop offset="60%" stop-color="#111a3a"/>
+      <stop offset="100%" stop-color="#0f2b25"/>
     </linearGradient>
-    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
-      <path d="M24 0H0V24" fill="none" stroke="#1f315f" stroke-width="1" opacity="0.35"/>
+    <pattern id="pixelGrid" width="16" height="16" patternUnits="userSpaceOnUse">
+      <rect width="16" height="16" fill="none"/>
+      <path d="M16 0H0V16" fill="none" stroke="#20315c" stroke-width="1" opacity="0.45"/>
     </pattern>
-    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
   </defs>
 
-  <rect width="1200" height="320" fill="url(#bg)"/>
-  <rect width="1200" height="320" fill="url(#grid)"/>
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <rect width="1200" height="340" fill="url(#pixelGrid)"/>
 
-  <g opacity="0.9">
-    <rect x="30" y="44" width="150" height="18" fill="#00f5d4"/>
-    <rect x="190" y="44" width="45" height="18" fill="#00b4d8"/>
-    <rect x="240" y="44" width="72" height="18" fill="#80ffdb"/>
+  <g fill="#1fffe0" opacity="0.9">
+    <rect x="32" y="30" width="20" height="20"/>
+    <rect x="56" y="30" width="20" height="20"/>
+    <rect x="80" y="30" width="20" height="20"/>
+    <rect x="112" y="30" width="8" height="20"/>
+    <rect x="126" y="30" width="40" height="20" fill="#5ec8ff"/>
   </g>
 
-  <g fill="#0e203f" opacity="0.85">
-    <rect x="0" y="215" width="120" height="105"/>
-    <rect x="120" y="190" width="90" height="130"/>
-    <rect x="210" y="225" width="80" height="95"/>
-    <rect x="290" y="170" width="110" height="150"/>
-    <rect x="400" y="205" width="100" height="115"/>
-    <rect x="500" y="165" width="85" height="155"/>
-    <rect x="585" y="195" width="115" height="125"/>
-    <rect x="700" y="175" width="120" height="145"/>
-    <rect x="820" y="215" width="95" height="105"/>
-    <rect x="915" y="185" width="120" height="135"/>
-    <rect x="1035" y="200" width="95" height="120"/>
-    <rect x="1130" y="170" width="70" height="150"/>
+  <g fill="#0d2145" opacity="0.9">
+    <rect x="0" y="220" width="140" height="120"/>
+    <rect x="140" y="190" width="100" height="150"/>
+    <rect x="240" y="215" width="90" height="125"/>
+    <rect x="330" y="170" width="125" height="170"/>
+    <rect x="455" y="205" width="95" height="135"/>
+    <rect x="550" y="168" width="110" height="172"/>
+    <rect x="660" y="196" width="122" height="144"/>
+    <rect x="782" y="176" width="126" height="164"/>
+    <rect x="908" y="210" width="102" height="130"/>
+    <rect x="1010" y="180" width="110" height="160"/>
+    <rect x="1120" y="160" width="80" height="180"/>
   </g>
 
-  <rect x="0" y="205" width="1200" height="2" fill="#36f9ff" opacity="0.35"/>
+  <rect x="0" y="218" width="1200" height="3" fill="#35f7ff" opacity="0.45"/>
 
-  <g filter="url(#glow)">
-    <text x="44" y="128" fill="#83fff1" font-size="48" font-family="monospace" font-weight="700">CJ1071 // CYBER XIANXIA</text>
-    <text x="45" y="166" fill="#a5b4fc" font-size="22" font-family="monospace">PIXEL · GAME · ANIME · AI ENGINEERING</text>
-    <text x="45" y="198" fill="#65fbd2" font-size="18" font-family="monospace">Quest: Build reliable AI tools with shipping-grade engineering.</text>
+  <g font-family="monospace" font-weight="700">
+    <text x="42" y="112" fill="#8ff9ff" font-size="54">CJ1071 // PIXEL HUD</text>
+    <text x="42" y="152" fill="#9fc6ff" font-size="22">AI ENGINEERING · GAME MINDSET · CYBER XIANXIA</text>
+    <text x="42" y="184" fill="#79ffd8" font-size="18">Quest: Build practical tools with stable architecture and fast delivery.</text>
   </g>
 
   <g>
-    <rect x="840" y="48" width="328" height="118" rx="8" fill="#0a1326" stroke="#37f1ff" stroke-width="2"/>
-    <text x="860" y="82" fill="#7df9ff" font-size="18" font-family="monospace">[ CULTIVATION PANEL ]</text>
-    <text x="860" y="111" fill="#b6ffea" font-size="16" font-family="monospace">Sword Intent: +9999</text>
-    <text x="860" y="136" fill="#b6ffea" font-size="16" font-family="monospace">Build Realm : Production Stage</text>
-    <text x="860" y="161" fill="#b6ffea" font-size="16" font-family="monospace">Artifact Lv : Docker Multi-Arch</text>
+    <rect x="822" y="42" width="346" height="138" fill="#0b1228" stroke="#3cf4ff" stroke-width="3"/>
+    <rect x="822" y="42" width="346" height="26" fill="#112245"/>
+    <text x="838" y="60" fill="#7efcff" font-family="monospace" font-size="14">SYSTEM PANEL // CULTIVATION HUD</text>
+
+    <text x="840" y="92" fill="#b7ffea" font-family="monospace" font-size="16">Realm:      Production Stage</text>
+    <text x="840" y="116" fill="#b7ffea" font-family="monospace" font-size="16">SwordCode:  Multi-Arch Build</text>
+    <text x="840" y="140" fill="#b7ffea" font-family="monospace" font-size="16">Discipline: AI + Full-Stack</text>
+    <text x="840" y="164" fill="#b7ffea" font-family="monospace" font-size="16">Status:     ONLINE</text>
   </g>
 </svg>
