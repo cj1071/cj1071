@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="280" viewBox="0 0 560 280" role="img" aria-label="CJ1071 Languages Card">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0c1028"/>
+      <stop offset="100%" stop-color="#12243a"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="548" height="268" rx="10" fill="url(#bg)" stroke="#5de2ff" stroke-width="2"/>
+  <text x="28" y="42" fill="#a6f0ff" font-size="24" font-family="monospace" font-weight="700">ELEMENTAL LANGS</text>
+  <text x="30" y="69" fill="#95a5c9" font-size="14" font-family="monospace">Based on byte share in non-fork repos</text>
+
+  <g font-family="monospace" font-size="15">
+    <text x="30" y="106" fill="#f7df1e">JavaScript 61.68%</text>
+    <rect x="30" y="114" width="500" height="12" rx="6" fill="#24314e"/>
+    <rect x="30" y="114" width="308" height="12" rx="6" fill="#f7df1e"/>
+
+    <text x="30" y="146" fill="#8dd6ff">Python 32.66%</text>
+    <rect x="30" y="154" width="500" height="12" rx="6" fill="#24314e"/>
+    <rect x="30" y="154" width="163" height="12" rx="6" fill="#4b8bbe"/>
+
+    <text x="30" y="186" fill="#b7f0ff">CSS 3.82%</text>
+    <rect x="30" y="194" width="500" height="12" rx="6" fill="#24314e"/>
+    <rect x="30" y="194" width="19" height="12" rx="6" fill="#42a5f5"/>
+
+    <text x="30" y="226" fill="#ffd8a8">HTML 1.84%</text>
+    <rect x="30" y="234" width="500" height="12" rx="6" fill="#24314e"/>
+    <rect x="30" y="234" width="9" height="12" rx="6" fill="#e34c26"/>
+  </g>
+</svg>
