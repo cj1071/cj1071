@@ -30,9 +30,6 @@
   <img src="./assets/langs-card.svg" alt="Languages Card" width="48%" />
 </div>
 
-> 面板是本仓库内本地 SVG（不是第三方外链图）。
-> 数据由 `scripts/update-dashboard.mjs` 自动刷新，并通过 GitHub Actions 定时更新。
-
 ## 当前任务线 / Current Questline
 
 - 构建可落地的 AI 工作流 / Build reliable AI workflows for production.
