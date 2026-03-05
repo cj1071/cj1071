@@ -46,7 +46,7 @@
 | --- | --- | ---: | --- |
 | [video-screenshot](https://github.com/cj1071/video-screenshot) | JavaScript | 1 | 这是一个Chrome扩展程序，可以自动截取网页上播放的视频画面，并保存到本地 |
 | [attendance-report-tool](https://github.com/cj1071/attendance-report-tool) | Python | 0 | 考勤报表自动化工具：支持导入考勤原始数据、自动汇总统计并导出报表。 |
-| [cj1071](https://github.com/cj1071/cj1071) | - | 0 | GitHub profile README |
+| [cj1071](https://github.com/cj1071/cj1071) | JavaScript | 0 | GitHub profile README |
 <!-- OWNED_REPOS_END -->
 
 ## Fork 收藏 / Forked Collection
