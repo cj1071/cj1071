@@ -55,5 +55,6 @@
 | --- | --- | ---: | --- |
 | [MiniDialog](https://github.com/cj1071/MiniDialog) | - | 1 | 功能丰富、使用简单、灵活多样、体积轻巧的无任何第三方依赖的 JavaScript 对话框组件。 |
 | [preserve-cd](https://github.com/cj1071/preserve-cd) | - | 1 | Game Preservation Project |
+| [cloud-mail](https://github.com/cj1071/cloud-mail) | - | 0 | A Cloudflare-based email service  \| 基于 Cloudflare 的邮箱服务  \| Cloudflare Email 邮箱 Mail |
 | [waoowaoo](https://github.com/cj1071/waoowaoo) | TypeScript | 0 | 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows. |
 <!-- FORKED_REPOS_END -->
