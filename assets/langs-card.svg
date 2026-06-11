@@ -8,18 +8,15 @@
   <rect x="8" y="8" width="544" height="284" fill="url(#bg)" stroke="#5de2ff" stroke-width="3"/>
   <rect x="8" y="8" width="544" height="28" fill="#132b4d"/>
   <text x="20" y="27" fill="#a6f0ff" font-size="14" font-family="monospace">ELEMENTAL LANGS PANEL</text>
-  <text x="20" y="55" fill="#95a5c9" font-size="13" font-family="monospace">Non-fork repo language byte share · 2026-06-10</text>
+  <text x="20" y="55" fill="#95a5c9" font-size="13" font-family="monospace">Non-fork repo language byte share · 2026-06-11</text>
   
-    <text x="22" y="92" fill="#f7df1e" font-size="15" font-family="monospace">JavaScript 44.22%</text>
+    <text x="22" y="92" fill="#f7df1e" font-size="15" font-family="monospace">JavaScript 91.60%</text>
     <rect x="22" y="100" width="470" height="12" fill="#253755"/>
-    <rect x="22" y="100" width="208" height="12" fill="#f7df1e"/>
-    <text x="22" y="140" fill="#3178c6" font-size="15" font-family="monospace">TypeScript 23.51%</text>
+    <rect x="22" y="100" width="431" height="12" fill="#f7df1e"/>
+    <text x="22" y="140" fill="#42a5f5" font-size="15" font-family="monospace">CSS 5.67%</text>
     <rect x="22" y="148" width="470" height="12" fill="#253755"/>
-    <rect x="22" y="148" width="110" height="12" fill="#3178c6"/>
-    <text x="22" y="188" fill="#4b8bbe" font-size="15" font-family="monospace">Python 19.65%</text>
+    <rect x="22" y="148" width="27" height="12" fill="#42a5f5"/>
+    <text x="22" y="188" fill="#e34c26" font-size="15" font-family="monospace">HTML 2.73%</text>
     <rect x="22" y="196" width="470" height="12" fill="#253755"/>
-    <rect x="22" y="196" width="92" height="12" fill="#4b8bbe"/>
-    <text x="22" y="236" fill="#42a5f5" font-size="15" font-family="monospace">CSS 8.84%</text>
-    <rect x="22" y="244" width="470" height="12" fill="#253755"/>
-    <rect x="22" y="244" width="42" height="12" fill="#42a5f5"/>
+    <rect x="22" y="196" width="13" height="12" fill="#e34c26"/>
 </svg>

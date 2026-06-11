@@ -42,10 +42,7 @@
 | Repository | Tech | Stars | Description |
 | --- | --- | ---: | --- |
 | [video-screenshot](https://github.com/cj1071/video-screenshot) | JavaScript | 1 | 这是一个Chrome扩展程序，可以自动截取网页上播放的视频画面，并保存到本地 |
-| [attendance-report-tool](https://github.com/cj1071/attendance-report-tool) | Python | 0 | 考勤报表自动化工具：支持导入考勤原始数据、自动汇总统计并导出报表。 |
 | [cj1071](https://github.com/cj1071/cj1071) | JavaScript | 0 | GitHub profile README |
-| [eplat-devtools](https://github.com/cj1071/eplat-devtools) | TypeScript | 0 | - |
-| [rmt-cli](https://github.com/cj1071/rmt-cli) | JavaScript | 0 | iPLAT4J 项目脚手架 CLI，内置 V6-GBase / V7-DM Maven 模板，一键生成多模块工程。 |
 <!-- OWNED_REPOS_END -->
 
 ## Fork 收藏 / Forked Collection
@@ -56,5 +53,4 @@
 | [MiniDialog](https://github.com/cj1071/MiniDialog) | - | 1 | 功能丰富、使用简单、灵活多样、体积轻巧的无任何第三方依赖的 JavaScript 对话框组件。 |
 | [preserve-cd](https://github.com/cj1071/preserve-cd) | - | 1 | Game Preservation Project |
 | [cloud-mail](https://github.com/cj1071/cloud-mail) | - | 0 | A Cloudflare-based email service  \| 基于 Cloudflare 的邮箱服务  \| Cloudflare Email 邮箱 Mail |
-| [waoowaoo](https://github.com/cj1071/waoowaoo) | TypeScript | 0 | 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows. |
 <!-- FORKED_REPOS_END -->
