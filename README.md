@@ -41,7 +41,7 @@
 <!-- OWNED_REPOS_START -->
 | Repository | Tech | Stars | Description |
 | --- | --- | ---: | --- |
-| [NLStatus-Pro](https://github.com/cj1071/NLStatus-Pro) | TypeScript | 1 | - |
+| [NLStatus-Pro](https://github.com/cj1071/NLStatus-Pro) | TypeScript | 2 | - |
 | [video-screenshot](https://github.com/cj1071/video-screenshot) | JavaScript | 1 | 这是一个Chrome扩展程序，可以自动截取网页上播放的视频画面，并保存到本地 |
 | [cj1071](https://github.com/cj1071/cj1071) | JavaScript | 0 | GitHub profile README |
 <!-- OWNED_REPOS_END -->
