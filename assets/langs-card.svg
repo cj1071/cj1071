@@ -8,18 +8,18 @@
   <rect x="8" y="8" width="544" height="284" fill="url(#bg)" stroke="#5de2ff" stroke-width="3"/>
   <rect x="8" y="8" width="544" height="28" fill="#132b4d"/>
   <text x="20" y="27" fill="#a6f0ff" font-size="14" font-family="monospace">ELEMENTAL LANGS PANEL</text>
-  <text x="20" y="55" fill="#95a5c9" font-size="13" font-family="monospace">Non-fork repo language byte share · 2026-06-22</text>
+  <text x="20" y="55" fill="#95a5c9" font-size="13" font-family="monospace">Non-fork repo language byte share · 2026-06-23</text>
   
-    <text x="22" y="92" fill="#3178c6" font-size="15" font-family="monospace">TypeScript 53.46%</text>
+    <text x="22" y="92" fill="#3178c6" font-size="15" font-family="monospace">TypeScript 54.13%</text>
     <rect x="22" y="100" width="470" height="12" fill="#253755"/>
-    <rect x="22" y="100" width="251" height="12" fill="#3178c6"/>
-    <text x="22" y="140" fill="#f7df1e" font-size="15" font-family="monospace">JavaScript 32.53%</text>
+    <rect x="22" y="100" width="254" height="12" fill="#3178c6"/>
+    <text x="22" y="140" fill="#f7df1e" font-size="15" font-family="monospace">JavaScript 31.20%</text>
     <rect x="22" y="148" width="470" height="12" fill="#253755"/>
-    <rect x="22" y="148" width="153" height="12" fill="#f7df1e"/>
-    <text x="22" y="188" fill="#42a5f5" font-size="15" font-family="monospace">CSS 13.05%</text>
+    <rect x="22" y="148" width="147" height="12" fill="#f7df1e"/>
+    <text x="22" y="188" fill="#42a5f5" font-size="15" font-family="monospace">CSS 13.74%</text>
     <rect x="22" y="196" width="470" height="12" fill="#253755"/>
-    <rect x="22" y="196" width="61" height="12" fill="#42a5f5"/>
-    <text x="22" y="236" fill="#e34c26" font-size="15" font-family="monospace">HTML 0.97%</text>
+    <rect x="22" y="196" width="65" height="12" fill="#42a5f5"/>
+    <text x="22" y="236" fill="#e34c26" font-size="15" font-family="monospace">HTML 0.93%</text>
     <rect x="22" y="244" width="470" height="12" fill="#253755"/>
     <rect x="22" y="244" width="6" height="12" fill="#e34c26"/>
 </svg>
