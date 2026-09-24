@@ -14,17 +14,17 @@
 
 <!-- GitHub Stats Cards -->
 <div align="center">
-  <img src="https://github-readme-stats.demolab.com/api?username=cj1071&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true" height="170" alt="Stats" />
-  <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=cj1071&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" height="170" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cj1071&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true" height="170" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cj1071&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" height="170" alt="Top Langs" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=cj1071&theme=chartreuse-dark&hide_border=true" height="170" alt="Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app?user=cj1071&theme=chartreuse-dark&hide_border=true" height="170" alt="Streak" />
 </div>
 
-<!-- Contribution Calendar 3D -->
+<!-- Contribution Activity Graph -->
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=cj1071&theme=dark&combine=true&commit_base=green" alt="3D Contrib" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cj1071&theme=chartreuse-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ---
