@@ -1,0 +1,31 @@
+name: Generate 3D contribution graph
+
+on:
+  schedule:
+    - cron: "28 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate 3D contribution and statistics SVGs
+        run: node .github/scripts/generate-profile-visuals.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit generated assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib profile-summary-card-output
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: update contribution and statistics visuals"
+          git push
