@@ -1,57 +1,76 @@
 <div align="center">
-  <img src="./assets/header-cyber.svg" alt="Cyber Xiuxian Pixel Header" width="100%" />
+
+<!-- Typewriter Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=28&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&random=false&width=600&height=80&lines=Hi%2C+I'm+Chenjie+%E9%99%88%E6%9D%B0;AI+Engineer+%C3%97+Full-Stack+Builder;IoT+%C3%97+Greenhouse+%C3%97+Cloud+Deploy;Vibe+Coding+%E2%86%92+Ship+It" alt="Typewriter" />
+
+<!-- Badges -->
+<img src="https://img.shields.io/badge/status-coding-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%E9%98%9F%E5%8F%8B-tewaiwu-blue?style=for-the-badge&link=https://github.com/tewaiwu" />
+<img src="https://img.shields.io/badge/platform-%E8%85%BE%E8%AE%AF%E4%BA%91-orange?style=for-the-badge" />
+
+</div>
+
+---
+
+<!-- GitHub Stats Cards -->
+<div align="center">
+  <img src="https://github-readme-stats.demolab.com/api?username=cj1071&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true" height="170" alt="Stats" />
+  <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=cj1071&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" height="170" alt="Top Langs" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/cj1071?tab=repositories">Repo Hub</a> •
-  <a href="https://github.com/cj1071?tab=stars">Star List</a> •
-  <a href="https://github.com/cj1071?tab=overview&from=2024-12-01&to=2026-12-31">Activity</a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=cj1071&theme=chartreuse-dark&hide_border=true" height="170" alt="Streak" />
 </div>
 
-## 角色状态 / Character Status
+<!-- Contribution Calendar 3D -->
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=cj1071&theme=dark&combine=true&commit_base=green" alt="3D Contrib" />
+</div>
 
-- 职业 / Class: `AI Engineer + Full-Stack Builder`
-- 阵营 / Alignment: `Pixel × Game × Anime × Cyber Xianxia`
-- 目标 / Objective: 做稳定、可观测、可持续交付的 AI 产品。
+---
 
-## 像素背包 / Pixel Inventory
-
-```text
-[Artifact] Architecture Compass  -> pragmatic, shippable, observable
-[Artifact] Build Script Blade    -> automate first, then scale
-[Artifact] Debug Mirror          -> data-driven diagnosis
-[Artifact] Delivery Boots        -> fast iteration, steady quality
-```
-
-## 修炼面板 / Cultivation Dashboard
+## Tech Stack
 
 <div align="center">
-  <img src="./assets/stats-card.svg" alt="Stats Card" width="48%" />
-  <img src="./assets/langs-card.svg" alt="Languages Card" width="48%" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,css,html,fastapi,vue,react,mysql,sqlite,redis,docker,githubactions,git,linux,cloudflare,raspberrypi" alt="Tech Stack" />
 </div>
 
-## 当前任务线 / Current Questline
+---
 
-- 构建可落地的 AI 工作流 / Build reliable AI workflows for production.
-- 保持系统可观测、可测试、可迭代 / Keep systems observable, testable, and easy to iterate.
-- 交付真正解决问题的工具 / Ship tools that solve real daily work.
+## Projects
 
-## 自有仓库 / Owned Repositories
+### Vibe Coding
 
-<!-- OWNED_REPOS_START -->
-| Repository | Tech | Stars | Description |
-| --- | --- | ---: | --- |
-| [NLStatus-Pro](https://github.com/cj1071/NLStatus-Pro) | TypeScript | 3 | NodeLoc 论坛增强脚本 - 信任等级追踪、阅读统计、能量值显示、排行榜、活动记录、帖子导出、AI 总结。支持深色/浅色主题，纯 TypeScript 开发，零运行时依赖。 |
-| [video-screenshot](https://github.com/cj1071/video-screenshot) | JavaScript | 1 | 这是一个Chrome扩展程序，可以自动截取网页上播放的视频画面，并保存到本地 |
-| [cj1071](https://github.com/cj1071/cj1071) | JavaScript | 0 | GitHub profile README |
-<!-- OWNED_REPOS_END -->
+| Project | Tech | Stars | Description |
+|---------|------|------:|-------------|
+| [NLStatus-Pro](https://github.com/cj1071/NLStatus-Pro) | TypeScript | ![Stars](https://img.shields.io/github/stars/cj1071/NLStatus-Pro?style=social) | NodeLoc 论坛增强脚本：信任等级追踪、阅读统计、能量值、排行榜、AI 总结 |
+| [video-screenshot](https://github.com/cj1071/video-screenshot) | JavaScript | ![Stars](https://img.shields.io/github/stars/cj1071/video-screenshot?style=social) | Chrome 扩展：自动截取网页视频画面并保存 |
 
-## Fork 收藏 / Forked Collection
+### Work - Greenhouse IoT (org: [tewaiwu](https://github.com/tewaiwu))
 
-<!-- FORKED_REPOS_START -->
-| Repository | Tech | Stars | Why I Forked |
-| --- | --- | ---: | --- |
-| [MiniDialog](https://github.com/cj1071/MiniDialog) | - | 1 | 功能丰富、使用简单、灵活多样、体积轻巧的无任何第三方依赖的 JavaScript 对话框组件。 |
-| [preserve-cd](https://github.com/cj1071/preserve-cd) | - | 1 | Game Preservation Project |
-| [cloud-mail](https://github.com/cj1071/cloud-mail) | - | 0 | A Cloudflare-based email service  \| 基于 Cloudflare 的邮箱服务  \| Cloudflare Email 邮箱 Mail |
-<!-- FORKED_REPOS_END -->
+| Project | Tech | Stars | Description |
+|---------|------|------:|-------------|
+| [gh-server](https://github.com/tewaiwu/gh-server) | Python · FastAPI | ![Stars](https://img.shields.io/github/stars/tewaiwu/gh-server?style=social) | 智能温室服务端：REST API + 静态前端 + Docker 部署 |
+| [gh-firmware](https://github.com/tewaiwu/gh-firmware) | C · GD32F30x | ![Stars](https://img.shields.io/github/stars/tewaiwu/gh-firmware?style=social) | 设备端 MCU 固件：传感器采集 + 继电器控制 + 通信协议 |
+| [gh-app](https://github.com/tewaiwu/gh-app) | JavaScript · WeChat MP | ![Stars](https://img.shields.io/github/stars/tewaiwu/gh-app?style=social) | 微信小程序：远程监控温室温湿度、光照、CO₂ |
+
+---
+
+## About Me
+
+- **Role**: AI Engineer + Full-Stack Builder
+- **Focus**: IoT × AI × Cloud Deploy
+- **Org**: [tewaiwu](https://github.com/tewaiwu) - 多人协作项目组织
+- **Server**: 腾讯云 + 1Panel + Docker
+- **Motto**: 做稳定、可观测、可持续交付的产品
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc.svg?username=cj1071&style=for-the-badge&color=4CAF50" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/cj1071?style=for-the-badge&color=4CAF50" alt="Followers" />
+</div>
+
+<div align="center">
+  <i>Last updated by GitHub Actions</i>
+</div>
