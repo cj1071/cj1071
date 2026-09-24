@@ -15,6 +15,8 @@ jobs:
     steps:
       - name: Check out profile repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Generate 3D contribution and statistics SVGs
         run: node .github/scripts/generate-profile-visuals.mjs
@@ -28,4 +30,5 @@ jobs:
           git add profile-3d-contrib profile-summary-card-output
           git diff --cached --quiet && exit 0
           git commit -m "chore: update contribution and statistics visuals"
+          git pull --rebase origin main
           git push
