@@ -8,6 +8,12 @@
 ![Stars](https://img.shields.io/github/stars/cj1071?style=flat-square&logo=github&affiliations=OWNER&label=Stars&color=bf8700)
 ![Profile views](https://komarev.com/ghpvc/?username=cj1071&style=flat-square&label=Views&color=8250df)
 
+</div>
+
+![Animated color divider](./assets/divider.svg)
+
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cj1071/cj1071/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cj1071/cj1071/output/github-contribution-grid-snake.svg" />
@@ -15,6 +21,8 @@
 </picture>
 
 </div>
+
+![Animated color divider](./assets/divider.svg)
 
 ## 🧭 About Me
 
@@ -24,13 +32,17 @@
 - ☁️ **Infra** — 腾讯云 + 1Panel + Docker CI/CD
 - 💡 **Motto** — Build for real problems. Test in the real world.
 
----
+![Animated color divider](./assets/divider.svg)
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg" />
   <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
+
+</div>
 
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
