@@ -10,6 +10,52 @@
 
 </div>
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧭 About Me
+
+- 🔭 **Current** — IoT × AI × Cloud Deploy
+- 🌱 **Stack** — Python · TypeScript · C · Docker
+- 🏢 **Team** — [tewaiwu](https://github.com/tewaiwu)
+- ☁️ **Infra** — 腾讯云 + 1Panel + CI/CD
+- 💡 **Motto** — Build for real problems
+
+</td>
+<td width="50%" valign="top">
+
+### 👋 Hello
+
+热衷于用代码解决真实问题，专注于 IoT × AI × Cloud 的全链路实践。当前在做智能温室系统，从 MCU 固件、服务端 API 到微信小程序全栈交付。相信稳定、可观测、可持续交付的产品才是好产品。
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+<div>&nbsp;</div>
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,c,html,css,docker,githubactions,git,linux&perline=10" alt="Skill Icons" />
+
+</div>
+
 ![Animated color divider](./assets/divider.svg)
 
 <div align="center">
@@ -20,21 +66,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/cj1071/cj1071/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-</div>
-
-![Animated color divider](./assets/divider.svg)
-
-## 🧭 About Me
-
-- 🔭 **Current** — IoT × AI × Cloud Deploy: 智能温室系统
-- 🌱 **Stack** — Python · TypeScript · C · Docker · GitHub Actions
-- 🏢 **Team** — [tewaiwu](https://github.com/tewaiwu): 多人协作项目组织
-- ☁️ **Infra** — 腾讯云 + 1Panel + Docker CI/CD
-- 💡 **Motto** — Build for real problems. Test in the real world.
-
-![Animated color divider](./assets/divider.svg)
-
-<div align="center">
+<div>&nbsp;</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
