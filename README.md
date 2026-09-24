@@ -9,9 +9,9 @@
 ![Profile views](https://komarev.com/ghpvc/?username=cj1071&style=flat-square&label=Views&color=8250df)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cj1071/cj1071/output/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cj1071/cj1071/output/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/cj1071/cj1071/output/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cj1071/cj1071/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cj1071/cj1071/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/cj1071/cj1071/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
