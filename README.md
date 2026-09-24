@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typewriter Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=28&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&random=false&width=600&height=80&lines=Hi%2C+I'm+Chenjie+%E9%99%88%E6%9D%B0;AI+Engineer+%C3%97+Full-Stack+Builder;IoT+%C3%97+Greenhouse+%C3%97+Cloud+Deploy;Vibe+Coding+%E2%86%92+Ship+It" alt="Typewriter" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&random=false&width=600&height=80&lines=Hi%2C+I'm+Chenjie;AI+Engineer+%C3%97+Full-Stack+Builder;IoT+%C3%97+Greenhouse+%C3%97+Cloud+Deploy;Vibe+Coding+%E2%86%92+Ship+It" alt="Typewriter" />
 
 <!-- Badges -->
 <img src="https://img.shields.io/badge/status-coding-green?style=for-the-badge" />
