@@ -14,6 +14,13 @@
 <tr>
 <td width="50%" valign="top">
 
+### 👋 Hello
+
+热衷于用代码解决真实问题，专注于 IoT × AI × Cloud 的全链路实践。当前在做智能温室系统，从 MCU 固件、服务端 API 到微信小程序全栈交付。相信稳定、可观测、可持续交付的产品才是好产品。
+
+</td>
+<td width="50%" valign="top">
+
 ### 🧭 About Me
 
 - 🔭 **Current** — IoT × AI × Cloud Deploy
@@ -23,17 +30,10 @@
 - 💡 **Motto** — Build for real problems
 
 </td>
-<td width="50%" valign="top">
-
-### 👋 Hello
-
-热衷于用代码解决真实问题，专注于 IoT × AI × Cloud 的全链路实践。当前在做智能温室系统，从 MCU 固件、服务端 API 到微信小程序全栈交付。相信稳定、可观测、可持续交付的产品才是好产品。
-
-</td>
 </tr>
 </table>
 
----
+![Animated color divider](./assets/divider.svg)
 
 <div align="center">
 
@@ -61,17 +61,17 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cj1071/cj1071/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cj1071/cj1071/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/cj1071/cj1071/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg" />
+  <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 
 <div>&nbsp;</div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg" />
-  <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cj1071/cj1071/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cj1071/cj1071/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/cj1071/cj1071/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
