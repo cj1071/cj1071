@@ -4,9 +4,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&random=false&width=600&height=80&lines=Hi%2C+I'm+Chenjie;AI+Engineer+%C3%97+Full-Stack+Builder;IoT+%C3%97+Greenhouse+%C3%97+Cloud+Deploy;Vibe+Coding+%E2%86%92+Ship+It" alt="Typewriter" />
 
 <!-- Badges -->
-<img src="https://img.shields.io/badge/status-coding-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/%E9%98%9F%E5%8F%8B-tewaiwu-blue?style=for-the-badge&link=https://github.com/tewaiwu" />
-<img src="https://img.shields.io/badge/platform-%E8%85%BE%E8%AE%AF%E4%BA%91-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/STATUS-CODING-4CAF50?style=flat-square" />
+<a href="https://github.com/tewaiwu"><img src="https://img.shields.io/badge/TEAM-TEWAIWU-0969da?style=flat-square" /></a>
+<img src="https://img.shields.io/badge/CLOUD-Tencent-f0883e?style=flat-square" />
 
 </div>
 
