@@ -77,9 +77,5 @@
 </div>
 
 <!--RECENT_ACTIVITY:start-->
-- ⬆️ [cj1071/cj1071](https://github.com/cj1071/cj1071): Pushed 0 commits
-- ⬆️ [cj1071/cj1071](https://github.com/cj1071/cj1071): Pushed 0 commits
-- ⬆️ [cj1071/cj1071](https://github.com/cj1071/cj1071): Pushed 0 commits
-- ⬆️ [cj1071/cj1071](https://github.com/cj1071/cj1071): Pushed 0 commits
-- ⬆️ [cj1071/cj1071](https://github.com/cj1071/cj1071): Pushed 0 commits
+- ⭐ [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model): Starred the repository
 <!--RECENT_ACTIVITY:end-->
